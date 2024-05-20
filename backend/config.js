@@ -1,3 +1,3 @@
 export const PORT = 5000;
-
-export const mongoDBURL = 'mongodb+srv://avadhoot:sVnuVeEoD1M3CZyg@cluster0.hpsrwqe.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
+//your mongodb Atlas url for connection of cloud database
+export const mongoDBURL = 'Mongodb_url'
